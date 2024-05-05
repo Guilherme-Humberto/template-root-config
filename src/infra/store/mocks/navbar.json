@@ -1,0 +1,80 @@
+{
+  "logo": "https://logos-world.net/wp-content/uploads/2020/04/Amazon-Logo.png",
+  "configs": {
+    "hasSearch": true,
+    "searchType": "hidden",
+    "menuType": "navigation",
+    "subMenuType": "modal",
+    "showCartIcon": true,
+    "showUserIcon": true,
+    "styles": {
+      "suspended": false,
+      "fontFamily": "Poppins, sans-serif",
+      "background": "#f8f8f8",
+      "subMenuBackground": "#f35",
+      "linksColor": "#000",
+      "subLinksColor": "#fff",
+      "hoverLinksColor": "",
+      "hoverBackgroundColor": "",
+      "gridTemplateColumns": "1fr 2fr 1fr"
+    }
+  },
+  "links": [
+    {
+      "id": 1,
+      "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Produtos",
+      "subLinks": [
+        {
+          "id": 1,
+          "link_id": 1,
+          "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Mais vendidos"
+        },
+        {
+          "id": 2,
+          "link_id": 1,
+          "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Lançamentos"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Categorias",
+      "subLinks": [
+        {
+          "id": 3,
+          "link_id": 2,
+          "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Livros"
+        },
+        {
+          "id": 4,
+          "link_id": 2,
+          "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Roupas"
+        },
+        {
+          "id": 5,
+          "link_id": 2,
+          "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Eletronicos"
+        },
+        {
+          "id": 6,
+          "link_id": 2,
+          "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "name": "Decoração"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://images.pexels.com/photos/6381851/pexels-photo-6381851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Promoções",
+      "subLinks": []
+    }
+  ]
+}

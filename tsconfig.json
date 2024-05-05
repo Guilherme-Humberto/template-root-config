@@ -1,0 +1,22 @@
+{
+  "extends": "ts-config-single-spa",
+  "files": [
+    "src/microsaas-root-config.ts"
+  ],
+  "compilerOptions": {
+    "declarationDir": "dist",
+    "allowJs": true,
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": [
+        "*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "src/**/*.test*"
+  ]
+}
